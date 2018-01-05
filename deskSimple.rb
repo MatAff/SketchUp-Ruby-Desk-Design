@@ -18,7 +18,7 @@ $ledgeHeight=10
 $offset=10
 #$sHeight=16
 $overhang=8
-$open=false
+$open=true
 
 # Build desk
 def build_desk()
